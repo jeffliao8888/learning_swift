@@ -54,14 +54,22 @@
 		CFE1269C2266656A00BA8B04 /* concentration */ = {
 			isa = PBXGroup;
 			children = (
-				CFE1269D2266656A00BA8B04 /* AppDelegate.swift */,
+				CFE126AF226666B700BA8B04 /* Supporting Files */,
 				CFE1269F2266656A00BA8B04 /* ViewController.swift */,
 				CFE126A12266656A00BA8B04 /* Main.storyboard */,
-				CFE126A42266656B00BA8B04 /* Assets.xcassets */,
-				CFE126A62266656B00BA8B04 /* LaunchScreen.storyboard */,
 				CFE126A92266656B00BA8B04 /* Info.plist */,
 			);
 			path = concentration;
+			sourceTree = "<group>";
+		};
+		CFE126AF226666B700BA8B04 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CFE1269D2266656A00BA8B04 /* AppDelegate.swift */,
+				CFE126A42266656B00BA8B04 /* Assets.xcassets */,
+				CFE126A62266656B00BA8B04 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
